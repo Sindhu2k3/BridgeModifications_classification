@@ -16,9 +16,9 @@ The dataset consists of two folders:
 - `train`: Training images for both classes.
 - `test`: Testing images for both classes.
 
-**Note**: The dataset (`tre.zip`) is hosted externally due to GitHub's file size limits.
+**Note**: The datasets are hosted externally due to GitHub's file size limits.
 
-- [Download `tre.zip` from Google Drive](https://drive.google.com/drive/folders/1vPwom8AetBAnPkCyaNuyQ8Wgo00WNjWN?usp=drive_link)
+- [Download `tre.zip` and 'amb.zip' from Google Drive](https://drive.google.com/drive/folders/1vPwom8AetBAnPkCyaNuyQ8Wgo00WNjWN?usp=drive_link)
 
 
 
@@ -29,7 +29,7 @@ The model is based on GoogleNet, with modifications:
 
 ## Installation and Setup
 
-1. **Extract the Dataset**: After downloading `tre.zip`, extract it in the main project directory.
+1. **Extract the Dataset**: After downloading the zipfile, extract it in the main project directory.
 2. **Environment**: Ensure the following libraries are available:
    - PyTorch
    - Torchvision
