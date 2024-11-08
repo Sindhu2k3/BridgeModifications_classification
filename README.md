@@ -18,7 +18,7 @@ The dataset consists of two folders:
 
 **Note**: The datasets are hosted externally due to GitHub's file size limits.
 
-- [Download `tre.zip` and 'amb.zip' from Google Drive](https://drive.google.com/drive/folders/1vPwom8AetBAnPkCyaNuyQ8Wgo00WNjWN?usp=drive_link)
+- [Download `tre.zip` and `amb.zip` from Google Drive](https://drive.google.com/drive/folders/1vPwom8AetBAnPkCyaNuyQ8Wgo00WNjWN?usp=drive_link)
 
 
 
